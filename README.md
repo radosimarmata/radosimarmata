@@ -1,7 +1,12 @@
 ## Hi there 👋
-# Hi there! 👋
 
-I'm Rado Simarmata, a passionate programmer with 4 years of experience in software development. I specialize in building robust and scalable applications. Here's a little more about me and what I do:
+I'm Rado Simarmata, a passionate programmer with 4 years of experience in software development. 
+I specialize in building robust and scalable applications. Here's a little more about me and what I do:
+
+### About Me
+- 🎓 **Education**: Bachelor of Engineering in Computer Engineering from Universitas Gunadarma.
+- 💼 **Current Role**: Software Engineer at PT Data Sains Inteknova since March 2022.
+- 🧠 **Interests**: AI for automation, cross-platform app development with Flutter, and web scraping.
 
 <!--
 **radosimarmata/radosimarmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
