@@ -11,6 +11,7 @@ I specialize in building robust and scalable applications.
 ## Get in Touch
 - 📫 **Email**: [simarmatarado@gmail.com](mailto:simarmatarado@gmail.com)
 - 💼 **LinkedIn**: [Rado HT Simarmata](https://www.linkedin.com/in/radohtsimarmata)
+- 🐦 **Twitter**: [@radosimarmata27](https://x.com/radosimarmata27)
 
 <!--
 **radosimarmata/radosimarmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
