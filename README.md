@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Rado Simarmata, a passionate programmer with 4 years of experience in software development. 
-I specialize in building robust and scalable applications. Here's a little more about me and what I do:
+I specialize in building robust and scalable applications.
 
 ## About Me
 - 🎓 **Education**: Bachelor of Engineering in Computer Engineering from Universitas Gunadarma.
