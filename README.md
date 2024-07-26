@@ -10,7 +10,7 @@ I specialize in building robust and scalable applications. Here's a little more 
 
 ## Get in Touch
 - 📫 **Email**: [simarmatarado@gmail.com](mailto:simarmatarado@gmail.com)
-- 💼 **LinkedIn**:www.linkedin.com/in/radohtsimarmata
+- 💼 **LinkedIn**: [Rado HT Simarmata](https://www.linkedin.com/in/radohtsimarmata)
 
 <!--
 **radosimarmata/radosimarmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
