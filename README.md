@@ -4,7 +4,7 @@ I'm Rado Simarmata, a passionate programmer with 4 years of experience in softwa
 I specialize in building robust and scalable applications.
 
 ## About Me
-- 🎓 **Education**: Bachelor of Engineering in Computer Engineering from Universitas Gunadarma.
+- 🎓 **Education**: Bachelor of Engineering in Software Engineering from Universitas Gunadarma.
 - 💼 **Current Role**: Software Engineer at PT Data Sains Inteknova since March 2022.
 - 🧠 **Interests**: AI for automation, cross-platform app development with Flutter, and web scraping.
 
