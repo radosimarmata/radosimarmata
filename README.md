@@ -1,4 +1,7 @@
 ## Hi there 👋
+# Hi there! 👋
+
+I'm Rado Simarmata, a passionate programmer with 4 years of experience in software development. I specialize in building robust and scalable applications. Here's a little more about me and what I do:
 
 <!--
 **radosimarmata/radosimarmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
