@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rado Simarmata, a passionate programmer with 4 years of experience in software development. 
+I'm Rado Simarmata, a passionate programmer in software development. 
 I specialize in building robust and scalable applications.
 
 ## Get in Touch
